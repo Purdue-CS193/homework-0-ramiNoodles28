@@ -7,6 +7,8 @@
 
 
 <!--
+heres a link to a ton of formatting things
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
 
 ## Welcome to GitHub Pages
 
