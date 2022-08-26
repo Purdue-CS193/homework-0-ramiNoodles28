@@ -1,5 +1,5 @@
 # Rami's First CS193 Homework
-## My Favorite Things about CS193
+### My Favorite Things about CS193
 - It's cool
 - It's chill
 - It's fun
